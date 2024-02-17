@@ -1,0 +1,48 @@
+    1  ls
+    2  cd..
+    3  cd..
+    4  cd.
+    5  cd ~
+    6  cd Desktop
+    7  cd..
+    8  cd
+    9  cd #
+   10  cd
+   11  cd OneDrive
+   12  cd..
+   13  cd
+   14  cd Desktop
+   15  ls -a
+   16  git init
+   17  ls -a
+   18  cd
+   19  cd desktop
+   20  cd /Desktop
+   21  ls -a
+   22  ls -a
+   23  ls -a
+   24  ls
+   25  ls -a
+   26  git init
+   27  ls -a
+   28  echo "# devopsdemo01" >> README.md
+   29  ls
+   30  git config --globel user.name "Pooja"
+   31  git config --global user.name "Pooja"
+   32  git config --global user.email "phoopatil26@gmail.com"
+   33  git config user.name
+   34  git config user.email
+   35  git status
+   36  git add .
+   37  git status
+   38  git commit -m "this is first commit"
+   39  git branch -M main
+   40  git remote add origin https://github.com/pooja526526/devopsdemo01.git
+   41  git push -u origin main
+   42  echo "this is poo"  >> openMe.txt
+   43  git status
+   44  git add .
+   45  git status
+   46  git commit -m "this is my second commit"
+   47  git push 
+   48  history > hist.txt
